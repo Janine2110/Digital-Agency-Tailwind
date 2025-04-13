@@ -1,5 +1,5 @@
 # Digital-Agency-Tailwind
-# Digital Agency Website
+
 
 Este é o repositório para o site de uma agência digital com um layout responsivo, desenvolvido utilizando HTML e CSS. O site apresenta várias seções como branding, design de sistemas, desenvolvimento de plugins personalizados, depoimentos de clientes e muito mais. 
 
