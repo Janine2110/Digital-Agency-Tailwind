@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.alinhamento__padrao{
+    @apply flex flex-col-reverse items-center my-16 mx-8 sm:flex-row sm:justify-between;
+}
+.titulo{
+    @apply text-indigo-950 font-bold w-[23.75rem] 
+    text-[2rem] text-center sm:text-left sm:text-5xl sm:w-[27.23044rem]
+}
+.texto{
+    @apply text-indigo-950 w-[23.75rem] text-center 
+    text-sm sm:text-left sm:text-base sm:w-[24.51356rem]
+}
